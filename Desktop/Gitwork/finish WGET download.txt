@@ -1,0 +1,5 @@
+
+
+
+
+wget -m -np -c --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Site-Dumps/r0bin0705_8fzydz_share.nxtcloud.net/mirror/"
